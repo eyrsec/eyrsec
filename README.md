@@ -5,7 +5,7 @@
 - 📫 How to reach me: eyrsec@gmail.com
 - ⚡ Fun fact: ... tbd.
 
-Test: My Github Stats
+My Github Stats
 Total Stats Earned: 80k
 Total Commits: 1.5k
 Total PRs: 40
