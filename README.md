@@ -5,11 +5,13 @@
 - 📫 How to reach me: eyrsec@gmail.com
 - ⚡ Fun fact: ... tbd.
 
-My Github Stats
-Total Stats Earned: 80k
-Total Commits: 1.5k
-Total PRs: 40
-Contributed To: 12
+<pre>
+                                                                                                                  __My Github Stats__
+                                                                                                                      Total Stats Earned: __80k__
+                                                                                                                      Total Commits: __1.5k__
+                                                                                                                      Total PRs: __40__
+                                                                                                                      Contributed To: __12__
+</pre>pre>
 <!---
 eyrsec/eyrsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
